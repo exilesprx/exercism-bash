@@ -20,7 +20,7 @@ main() {
 		result="$number"
 	fi
 
-	echo -n $result
+	echo -n "$result"
 }
 
 main "$@"
